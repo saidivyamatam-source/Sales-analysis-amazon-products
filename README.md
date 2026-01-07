@@ -38,7 +38,3 @@ Power BI
 🔸 Outcome
 
 The dashboard enables stakeholders to quickly identify high-performing products, sales trends, and customer preferences, supporting strategic planning and performance optimization.
-
-Dashboard picture
-
-(https://github.com/saidivyamatam-source/Sales-analysis-amazon-products/blob/main/amazon%20sales%20analysis%20dashboard.png)

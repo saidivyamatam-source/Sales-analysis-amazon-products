@@ -1,5 +1,6 @@
 # Sales-analysis-amazon-products
-Title
+Title:
+
 Amazon Sales Analysis Dashboard
 
 This project focuses on building an end-to-end Business Intelligence dashboard to analyze Amazon product sales data using Power BI.
@@ -40,4 +41,4 @@ The dashboard enables stakeholders to quickly identify high-performing products,
 
 Dashboard picture
 
-https://github.com/saidivyamatam-source/Sales-analysis-amazon-products/blob/main/amazon%20sales%20analysis%20dashboard.png
+(https://github.com/saidivyamatam-source/Sales-analysis-amazon-products/blob/main/amazon%20sales%20analysis%20dashboard.png)

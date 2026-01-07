@@ -40,4 +40,4 @@ The dashboard enables stakeholders to quickly identify high-performing products,
 
 Dashboard picture
 
-(https://github.com/saidivyamatam-source/Sales-analysis-amazon-products/blob/main/amazon%20sales%20analysis%20dashboard.png)
+https://github.com/saidivyamatam-source/Sales-analysis-amazon-products/blob/main/amazon%20sales%20analysis%20dashboard.png

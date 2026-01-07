@@ -1,11 +1,14 @@
 # Sales-analysis-amazon-products
-Title:
+## Title:
 
 Amazon Sales Analysis Dashboard
 
 This project focuses on building an end-to-end Business Intelligence dashboard to analyze Amazon product sales data using Power BI.
 
-🔸 Features
+DATASET
+
+
+## 🔸 Features
 
 KPI cards for YTD Sales, QTD Sales, Products Sold, and Revenue
 
@@ -19,7 +22,7 @@ Top 5 Products by Customer Reviews
 
 Interactive slicers for Product Category and Quarter
 
-🔸 Data Processing
+## 🔸 Data Processing
 
 Cleaned and prepared raw sales data
 
@@ -29,12 +32,12 @@ Created relationships between fact and dimension tables
 
 Developed calculated measures using DAX
 
-🔸 Tools & Technologies
+## 🔸 Tools & Technologies
 
 Excel
 
 Power BI
 
-🔸 Outcome
+## 🔸 Outcome
 
 The dashboard enables stakeholders to quickly identify high-performing products, sales trends, and customer preferences, supporting strategic planning and performance optimization.

@@ -5,22 +5,22 @@ Amazon Sales Analysis Dashboard
 
 This project focuses on building an end-to-end Business Intelligence dashboard to analyze Amazon product sales data using Power BI.
 
-DATASET
-
+## Dataset
+<a href="https://github.com/saidivyamatam-source/Sales-analysis-amazon-products/blob/main/Amazon_Data.xlsx">Amazon Dataset</a>
 
 ## 🔸 Features
 
-KPI cards for YTD Sales, QTD Sales, Products Sold, and Revenue
+1.KPI cards for YTD Sales, QTD Sales, Products Sold, and Revenue
 
-Monthly and Weekly Sales Trend Analysis
+2.Monthly and Weekly Sales Trend Analysis
 
-Category-wise Sales Performance with percentage contribution
+3.Category-wise Sales Performance with percentage contribution
 
-Top 5 Products by YTD Sales
+4.Top 5 Products by YTD Sales
 
-Top 5 Products by Customer Reviews
+5.Top 5 Products by Customer Reviews
 
-Interactive slicers for Product Category and Quarter
+6.Interactive slicers for Product Category and Quarter
 
 ## 🔸 Data Processing
 
@@ -34,10 +34,12 @@ Developed calculated measures using DAX
 
 ## 🔸 Tools & Technologies
 
-Excel
+1.Excel
 
-Power BI
+2.Power BI
 
 ## 🔸 Outcome
 
 The dashboard enables stakeholders to quickly identify high-performing products, sales trends, and customer preferences, supporting strategic planning and performance optimization.
+## Dashboard Image
+
